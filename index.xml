@@ -4,8 +4,21 @@
     <title>My New Hugo Site</title>
     <link>https://PauliusJaskutelis.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
+    <image>
+      <title>My New Hugo Site</title>
+      <url>https://PauliusJaskutelis.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://PauliusJaskutelis.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- 0.136.2</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
     <atom:link href="https://PauliusJaskutelis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My 1st Post</title>
+      <link>https://PauliusJaskutelis.github.io/page/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>https://PauliusJaskutelis.github.io/page/</guid>
+      <description>This is the first post on my blog.</description>
+    </item>
   </channel>
 </rss>
